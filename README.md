@@ -8,13 +8,13 @@ npm install create-repository -g
 
 ## Usage
 
-`create-repository` will try to read `package.json` and use the name and description properties.
+`create-repository` Remai `package.json` and use the remai and description properties.
 
 ```
 $ create-repository
 ```
 
-You can also pass values for name and description.
+You can also pass values for remai and description.
 
 ```
 $ create-repository --name my-new-project --description "That's all I have to say about that"
